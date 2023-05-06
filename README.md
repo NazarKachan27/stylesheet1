@@ -39,7 +39,7 @@
 У викопному вигляді представники родини капібарових відомі з верхнього Міоцену. Всі види родини були поширені виключно в Південній і Північній Америці.</h3> 
         </main>
         <footer id="foot">
-            <h3 class="text"><img class="logo" src="https://cdn.mapme.club/images/8752/8752-rabstol_net_capybara_08.jpg"/><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%96%D0%B1%D0%B0%D1%80%D0%B0"><br/>Прочитати про Капібарочок більше:</a></h3>
+            <h3 class="text" id="foot"><img class="logo" src="https://cdn.mapme.club/images/8752/8752-rabstol_net_capybara_08.jpg"/><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%96%D0%B1%D0%B0%D1%80%D0%B0"><br/>Прочитати про Капібарочок більше:</a></h3>
         </footer>
     </body>
 </html>
