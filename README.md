@@ -10,7 +10,7 @@
             <a class="navigation" href="#life">Життя Капібарочок</a>
             <a class="navigation" href="#capi">Опис Капібарочок</a> 
             <a class="navigation" href="#province">Де живуть Капібарочки</a>
-            <a class="navigation" href="#foot"> Підвал </a>
+            <a class="navigation" href="#foot">Підвал</a>
             </nav>
         </header>
         <main>
